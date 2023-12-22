@@ -22,7 +22,8 @@ p.changeVisualShape(c, -1, textureUniqueId=x)
 #(link index has something to do with "joints", of which the cube apparently has none)
 ```
 Данный способ работает не со всеми изображениями, причина такого поведения пока неизвестна
-	В данном случае изображение будет добавлено на все стороны куба
+	
+ При таком способе добавления текстуры изображение будет добавлено на все стороны куба
 
 ![Cube_with_texture_ChangeVisualShape](Images/Cube_with_texture_ChangeVisualShape.png)
 ## Добавление текстуры при помощи связки URDF+OBJ+MTL
@@ -66,7 +67,7 @@ p.changeVisualShape(c, -1, textureUniqueId=x)
  	![Changing_urdf](Images/Changing_urdf.png)
 14. В симуляции загрузить созданный urdf file
 ```python
-c = p.loadURDF('cube.urdf',
+c = p.loadURDF('cube_copy.urdf',
 
 					[-.1, 0, .1],
 					
