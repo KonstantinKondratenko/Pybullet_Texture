@@ -23,7 +23,7 @@ p.changeVisualShape(c, -1, textureUniqueId=x)
 ```
 Данный способ работает не со всеми изображениями, причина такого поведения пока неизвестна
 	В данном случае изображение будет добавлено на все стороны куба
-	![[Cube with texture (ChangeVisualShape).png]]
+	!(Images/Cube with texture (ChangeVisualShape).png)
 ## Добавление текстуры при помощи связки URDF+OBJ+MTL
 1. В блендере нужно открыть вкладку материалов
 	![[Images/Opening materials tab.png]]
