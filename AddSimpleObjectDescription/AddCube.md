@@ -1,6 +1,6 @@
 # Добавление куба с простой тектурой
 
-В этой файле описано добавление вот такого объекта в окружение BaseAviary
+В этом файле описано добавление вот такого объекта в окружение BaseAviary
 
 <img src="Screens/cube_with_sobaken_screen.png" alt="screen1" width="500">
 
@@ -12,11 +12,11 @@
 
 Чтобы добавить текстуру на объект, нужно открыть вкладку с материалами в правом окне blender
 
-<img src="Screens/default_blender_object.png" alt="screen3" width="500">
+<img src="Screens/blender_material_tab.png" alt="screen3" width="500">
 
 Далее разделяем рабочую область, для того, чтобы было удобнее наблюдать за изменением объекта, для этого наводим курсор на перекресток вверху между рабочей областью и окном со списком объектов, курсор должен выглядеть как "прицел"
 
-<img src="Screens/default_blender_object.png" alt="screen4" width="500">
+<img src="Screens/division_of_work_area.png" alt="screen4" width="500">
 
 Тянем влево, получаем следующее
 
